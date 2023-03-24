@@ -1,5 +1,8 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.debug.settings.console": "integratedTerminal",
-    "editor.inlayHints.enabled": "off"
+    "editor.inlayHints.enabled": "off",
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }
