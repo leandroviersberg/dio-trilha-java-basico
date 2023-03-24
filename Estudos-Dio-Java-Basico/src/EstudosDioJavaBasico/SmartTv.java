@@ -1,3 +1,4 @@
+package EstudosDioJavaBasico;
 /*Trabalhar com metodos
  * Exemplo de uma classe para representar uma smartTv onde:
  * Ela tenha caracteristicas: ligada(boolean),  canal (int) e volume(int)

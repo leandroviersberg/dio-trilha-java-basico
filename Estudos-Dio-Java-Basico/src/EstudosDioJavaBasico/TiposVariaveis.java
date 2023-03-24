@@ -1,3 +1,4 @@
+package EstudosDioJavaBasico;
 // 8 tipos primitivos em java:
 /*
  * int, byte, short, long, float, double, boolean e char - estes

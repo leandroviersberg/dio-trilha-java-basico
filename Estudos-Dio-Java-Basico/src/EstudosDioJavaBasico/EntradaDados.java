@@ -1,3 +1,4 @@
+package EstudosDioJavaBasico;
 import java.util.Locale;
 import java.util.Scanner;
 
