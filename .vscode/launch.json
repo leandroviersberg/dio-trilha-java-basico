@@ -1,0 +1,97 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "EstudosDioJavaBasico.Argumentos",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "EntradaDados",
+            "request": "launch",
+            "mainClass": "EstudosDioJavaBasico.EntradaDados",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "EstudosDioJavaBasico.Operadores",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "EstudosDioJavaBasico.TiposVariaveis",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "EstudosDioJavaBasico.Usuario",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_NomeIdade",
+            "request": "launch",
+            "mainClass": "looparrays.Ex1_NomeIdade",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_Nota",
+            "request": "launch",
+            "mainClass": "looparrays.Ex2_Nota",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_MaiorMedia",
+            "request": "launch",
+            "mainClass": "looparrays.Ex3_MaiorMedia",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        }
+    ]
+}
