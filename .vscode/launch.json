@@ -5,6 +5,62 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Ex4_ArrayMultidimensional",
+            "request": "launch",
+            "mainClass": "Arrays.Ex4_ArrayMultidimensional",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "Arrays.Ex3_NumerosAleatorios",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_Consoantes",
+            "request": "launch",
+            "mainClass": "Arrays.Ex2_Consoantes",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "OrdemInversa",
+            "request": "launch",
+            "mainClass": "Arrays.OrdemInversa",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "looparrays.Ex6_Fatorial",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Ex5_Tabuada",
+            "request": "launch",
+            "mainClass": "looparrays.Ex5_Tabuada",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "Ex4_ParEImpar",
+            "request": "launch",
+            "mainClass": "looparrays.Ex4_ParEImpar",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
+            "type": "java",
+            "name": "TesteSemaforo",
+            "request": "launch",
+            "mainClass": "looparrays.TesteSemaforo",
+            "projectName": "dio-trilha-java-basico_a2d2c479"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
